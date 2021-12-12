@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "430686827206",
+    "project_id": "cattouch-6c904",
+    "storage_bucket": "cattouch-6c904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430686827206:android:857d43d85e55dbec6b9dc7",
+        "android_client_info": {
+          "package_name": "com.example.cattouch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430686827206-bg2741b4hvdq8kloakehklud2bs9q3oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cattouch",
+            "certificate_hash": "20df7872fb2dd22d6512cc10ffbd6791d671a994"
+          }
+        },
+        {
+          "client_id": "430686827206-lmf2tsacm6evk492k9ihl7si937op6v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc9veZXp1tyxjnhC4sS0WuYr8bVfCgNBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430686827206-lmf2tsacm6evk492k9ihl7si937op6v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
