@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="season_prompt">국가 선택</string>
     <string-array name="country">
         <item>South Korea</item>
         <item>Hong Kong</item>

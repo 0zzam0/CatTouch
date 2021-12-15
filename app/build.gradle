@@ -2,7 +2,8 @@ plugins {
     id 'com.android.application'
     id 'kotlin-android'
     //view import 위한 플러그인
-    id 'kotlin-android-extensions'
+    //id 'kotlin-android-extensions'
+    id 'kotlin-parcelize'
     id 'com.google.gms.google-services'
 }
 
@@ -14,7 +15,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.cattouch"
-        minSdkVersion 16
+        minSdkVersion 19
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
